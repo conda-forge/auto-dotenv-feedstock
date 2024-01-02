@@ -1,6 +1,6 @@
 package:
   name: auto-dotenv
-  version: 1.0
+  version: 1.1
 
 build:
   noarch: generic
